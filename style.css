@@ -1,0 +1,86 @@
+body {
+    font-family: monospace;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navigation {
+    background-color: #F4A460;
+    color: white;
+    text-align: center;
+    padding: 15px;
+  }
+  
+  .navigation ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navigation li {
+    margin: 5px 70px;
+    display: inline;
+  }
+  
+  .profile {
+    width: 500px;
+    text-align: center;
+    margin: 30px auto;
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+  }
+  
+  .profile p {
+    text-align: justify;
+  }
+  
+  .profile img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+  }
+  
+  .profile .contact {
+    text-align: center;
+    margin-top: 15px;
+  }
+  
+  .profile span {
+    color: #8B0000;
+  }
+  
+  .profile-details {
+    width: 500px;
+    margin: 30px auto;
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+  }
+  
+  .Genre h3 {
+    text-decoration: underline double;
+    font-style: oblique;
+    color: #8B0000;
+  }
+  
+  .Games h3 {
+    text-decoration: underline double;
+    font-style: oblique;
+    color: #8B0000;
+  }
+  
+  .container {
+    border-bottom: 5px solid #8B0000;
+  }
+  
+  .Year {
+    font-weight: bold;
+  }
+  
+  footer {
+    height: 30px;
+    background-color: #F4A460;
+    color: white;
+    text-align: center;
+  }
